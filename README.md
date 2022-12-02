@@ -1,17 +1,9 @@
-# AssignmentSkeleton
+# Simple way to draw a tennis court 
 
-An example layout students can use when submitting assingments for the Sports Analytics
-course at Concordia University.
+## Assignment 2
 
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
-
-## Assignment/Project Number ?
-
-## Brief description of Assignment/Project
-
-## Group Members
-
+## Brief description 
+Good activity for newbies to python. To elaborate, I manually draw a tennis court using simple and common python libraries.
 ## Setup
 
 If using `pyenv` virtual env:
